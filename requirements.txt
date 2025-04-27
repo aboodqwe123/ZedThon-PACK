@@ -44,6 +44,7 @@ prettytable
 programmingquotes
 psutil
 psycopg2
+py-tgcalls
 pyfiglet
 PyGithub
 pygments
@@ -70,4 +71,5 @@ vcsi
 wand
 wikipedia
 youtube_dl
-youtube-search-python
+youtube-search
+youtube-search-python==1.4.9
